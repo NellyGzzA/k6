@@ -1,6 +1,3 @@
-# k6
-Presentación k6 
-
 # Fuente
 https://k6.readme.io/
 
